@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/cooper/Projects/Personal/ai-pricer-tracker/logs/.3f6d7b7b989a203e0bcabc5b9f21faa372e55577-audit.json",
+    "files": [
+        {
+            "date": 1756592913280,
+            "name": "/Users/cooper/Projects/Personal/ai-pricer-tracker/logs/mcp-puppeteer-2025-08-30.log",
+            "hash": "8f9fb293fbfce59617bc217418e048848d4fd4f8ac260853fd77cc28067f99af"
+        }
+    ],
+    "hashType": "sha256"
+}
